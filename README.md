@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning crypto
 - 📫 How to reach me ...
 
-* 💞️ Follow me on twitter and github, I will follow back *
+
+# 💞️ Follow me on twitter and github, I will follow back
 https://twitter.com/LabadieSeema
 
 <!---
